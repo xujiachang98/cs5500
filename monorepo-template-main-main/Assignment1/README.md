@@ -2,8 +2,11 @@
 
 - Name:
 - How many hours did it take you to complete this assignment?
+5 hours
 - Did you collaborate with any other students/TAs/Professors?
+No
 - Did you use any external resources? (Cite them below)
+N/A
   - tbd
   - tbd
 - (Optional) What was your favorite part of the assignment?
