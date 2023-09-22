@@ -1,0 +1,12 @@
+.idea*
+.DS_Store
+.venv*
+
+# Ignore all binary files
+*.[aA][bB][iI]
+*.[oO]
+*.[sS][oO]
+*.pyc
+
+# Ignore 'data' files generated when executing a binary
+data/
