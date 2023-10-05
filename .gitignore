@@ -1,6 +1,7 @@
 .idea*
-.DS_Store
 .venv*
+.gitignore
+.DS_Store
 
 # Ignore all binary files
 *.[aA][bB][iI]
