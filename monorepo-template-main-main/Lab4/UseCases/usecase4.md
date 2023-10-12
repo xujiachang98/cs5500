@@ -6,31 +6,31 @@
 
 <hr>
 
-**Use Case**: Pixel Painter
+**Use Case**: *use-case-title*
 
-**Primary Actor**: User
+**Primary Actor**: *primary-actor*
 
-**Goal in Context**: Allow user to drag and draw over the canvas like a pencil on a piece of paper by pressing the mouse and left-clicks
+**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
 
-**Preconditions**: The window and canvas are opened and running
+**Preconditions**: *conditions that must be true before the scenario may play out*
 
-**Trigger**: The mouse is pressed and a user left-clicks on the canvas
-
-**Scenario**: A user will press the mouse and left-clicks, it will leave a pixel color wherever the mouse is located
+**Trigger**: *an action or actions that initiate the scenario*
+  
+**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
  
-**Exceptions**: The program may become potentially unresponsive. May need to wait a few seconds to see the color
+**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
 
-**Priority**: High
+**Priority**: *relative importance of this use case compared to other use cases*
 
-**When available**: First release
+**When available**: *the targeted release that covers this use case*
 
-**Channel to actor**: The primary actor communicates through I/O devices using the mouse. The user is responsible for all other input.
+**Channel to actor**: *the means through which the primary actor and the system communicate*
 
-**Secondary Actor**: N/A
+**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
 
-**Channels to Secondary Actors**: N/A
+**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
 
-**Open Issues**: Need to have a function to erase some part of the drawing later
+**Open Issues**: *notes, concerns, or other materials*
 
 <hr>
 

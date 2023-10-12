@@ -6,33 +6,31 @@
 
 <hr>
 
-**Use Case**: Program initiation
+**Use Case**: *use-case-title*
 
-**Primary Actor**: User
+**Primary Actor**: *primary-actor*
 
-**Goal in Context**: Open the window and drawable canvas 
+**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
 
-**Preconditions**: The window and canvas are not opened
+**Preconditions**: *conditions that must be true before the scenario may play out*
 
-**Trigger**: Open the program by double clicking the icon or right clicking and pressing run
+**Trigger**: *an action or actions that initiate the scenario*
   
-**Scenario 1**: A user will double click the icon to start the program
-
-**Scenario 2**: A user will right-click and press run to start the program
+**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
  
-**Exceptions**: The program may become potentially unresponsive. We can click the icon again to open
+**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
 
-**Priority**: High
+**Priority**: *relative importance of this use case compared to other use cases*
 
-**When available**: First release
+**When available**: *the targeted release that covers this use case*
 
-**Channel to actor**: The primary actor communicates through I/O devices using the mouse. The user is responsible for all other input.
+**Channel to actor**: *the means through which the primary actor and the system communicate*
 
-**Secondary Actor**: N/A
+**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
 
-**Channels to Secondary Actors**: N/A
+**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
 
-**Open Issues**: Add a progress bar for users to see the opening progress
+**Open Issues**: *notes, concerns, or other materials*
 
 <hr>
 

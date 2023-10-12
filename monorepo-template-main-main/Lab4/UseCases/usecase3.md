@@ -6,31 +6,31 @@
 
 <hr>
 
-**Use Case**: Canvas clearance
+**Use Case**: *use-case-title*
 
-**Primary Actor**: User
+**Primary Actor**: *primary-actor*
 
-**Goal in Context**: Clear the entire canvas and fill the entire canvas with the last selected color
+**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
 
-**Preconditions**: The window and canvas are opened and running, one color is selected and there are pixels in the canvas
+**Preconditions**: *conditions that must be true before the scenario may play out*
 
-**Trigger**: Pressing the space key
+**Trigger**: *an action or actions that initiate the scenario*
   
-**Scenario**: A user will press the space key in the keyboard to clear the canvas
+**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
  
-**Exceptions**: The program may become potentially unresponsive. May need to wait a few seconds to clear the canvas
+**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
 
-**Priority**: Medium
+**Priority**: *relative importance of this use case compared to other use cases*
 
-**When available**: First release
+**When available**: *the targeted release that covers this use case*
 
-**Channel to actor**: The primary actor communicates through I/O devices using the keyboard. The user is responsible for all other input.
+**Channel to actor**: *the means through which the primary actor and the system communicate*
 
-**Secondary Actor**: N/A
+**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
 
-**Channels to Secondary Actors**: N/A
+**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
 
-**Open Issues**: We may need to implement 'saving' functionality in the future before clear everything.
+**Open Issues**: *notes, concerns, or other materials*
 
 <hr>
 
